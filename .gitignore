@@ -8,6 +8,7 @@ QUICKSAVE.SAV
 # PoP recorded gameplay (replay)
 *.P1R
 *.p1r
+*.tgz
 
 # PoP custom levelsets
 mods/*/
